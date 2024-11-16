@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 fetch command is being used
 pull is used
+=======
+ fetch command is being used
+new change
+>>>>>>> 92180c01d764a625171ff78324fc5f0228e2085b
