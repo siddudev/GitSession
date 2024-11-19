@@ -1,9 +1,1 @@
 hello
-hi
-welcome
-<<<<<<< HEAD
-awesome
-sample in feature
-=======
-Halo :D
->>>>>>> origin/master
